@@ -58,7 +58,7 @@ Authorization: Bearer <token>
   "description": "Une conférence sur les dernières avancées technologiques."
 }
 
-#Créer un Événement
+#get un Événement
 GET /events/
 
 #Mettre à Jour un Événement
